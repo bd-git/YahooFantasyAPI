@@ -1,0 +1,9 @@
+venvyahoofantasy/
+__pycache__/
+.vscode/
+wsyahoofantasy.code-workspace
+.yahoo_web_cache*/
+*.json
+test.py
+debug.log
+
